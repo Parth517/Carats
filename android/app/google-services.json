@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1032495065587",
+    "firebase_url": "https://carats-e571a-default-rtdb.firebaseio.com",
+    "project_id": "carats-e571a",
+    "storage_bucket": "carats-e571a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032495065587:android:bd70576fac657297200a86",
+        "android_client_info": {
+          "package_name": "com.example.caratscust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032495065587-ken2v11b9ap7u8e6kjp779qbohur2ed4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANxyP9N87IWYUdHlYK63yIv3ieX9Nq18M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032495065587-ken2v11b9ap7u8e6kjp779qbohur2ed4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
